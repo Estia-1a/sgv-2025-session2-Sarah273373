@@ -197,4 +197,11 @@ p {
 p {
   font-family: Arial, Helvetica, sans-serif;
 }
-```
+```body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #333;
+}
+
